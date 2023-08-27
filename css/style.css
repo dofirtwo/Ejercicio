@@ -1,0 +1,176 @@
+#div1{
+    background-color: blue;
+    color: orangered;
+    text-align: right;
+}
+#div2{
+    background-color:chartreuse;
+    color: slateblue;
+    text-align: center;
+}
+#div3{
+    background-color: cornflowerblue;
+    color: sienna;
+    text-align: justify;
+}
+.cajaPadre1{
+    background-color: black;
+    width: 500px;
+    /* para definir el tamaño */
+    height: 500px;
+    display: block;
+    position: relative;
+}
+.cajaHijo1{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.cajaPadre2{
+    background-color: black;
+    width: 500px;
+    /* para definir el tamaño */
+    height: 500px;
+    display: block;
+    position: relative;
+}
+.cajaHijo2{
+    position: absolute;
+    top: 0%;
+    left: 40%;
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.cajaPadre3{
+    background-color: black;
+    width: 500px;
+    /* para definir el tamaño */
+    height: 500px;
+    display: block;
+    position: relative;
+}
+.cajaHijo3{
+    position: absolute;
+    top: 0%;
+    left: 80%;
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.cajaPadre4{
+    background-color: black;
+    width: 500px;
+    /* para definir el tamaño */
+    height: 500px;
+    display: block;
+    position: relative;
+}
+.cajaHijo4{
+    position: absolute;
+    top: 40%;
+    left: 0%;
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.cajaPadre5{
+    background-color: black;
+    width: 500px;
+    /* para definir el tamaño */
+    height: 500px;
+    display: block;
+    position: relative;
+}
+.cajaHijo5{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.cajaPadre6{
+    background-color: black;
+    width: 500px;
+    /* para definir el tamaño */
+    height: 500px;
+    display: block;
+    position: relative;
+}
+.cajaHijo6{
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.cajaPadre7{
+    background-color: black;
+    width: 500px;
+    /* para definir el tamaño */
+    height: 500px;
+    display: block;
+    position: relative;
+}
+.cajaHijo7{
+    position: absolute;
+    top: 80%;
+    left: 0%;
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.cajaPadre8{
+    background-color: black;
+    width: 500px;
+    /* para definir el tamaño */
+    height: 500px;
+    display: block;
+    position: relative;
+}
+.cajaHijo8{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.cajaPadre9{
+    background-color: black;
+    width: 500px;
+    /* para definir el tamaño */
+    height: 500px;
+    display: block;
+    position: relative;
+}
+.cajaHijo9{
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    display: block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
